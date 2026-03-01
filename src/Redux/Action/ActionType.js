@@ -1,0 +1,6 @@
+export const AUTH_ACTION={
+    TOKEN_SAVE:"TOKEN_SAVE",
+    SAVE_USER_DETAILS:"SAVE_USER_DETAILS",
+    LOADER : 'LOADER',
+} 
+

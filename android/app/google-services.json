@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976108410425",
+    "firebase_url": "https://frc-caa-app.firebaseio.com",
+    "project_id": "frc-caa-app",
+    "storage_bucket": "frc-caa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976108410425:android:21cfb9555f399f0eef9fe8",
+        "android_client_info": {
+          "package_name": "com.frc_caa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976108410425-b0jt5bdv071448ac2sp5pgvtbutpt96p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frc_caa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "976108410425-0le7tng9kbmikvj73hccqto3e04ggs0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBc-Jus8EYyVonETAvs9lTVWnh4KcCycs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976108410425-0le7tng9kbmikvj73hccqto3e04ggs0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

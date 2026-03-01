@@ -1,0 +1,6 @@
+module Pods_FRC_CAA {
+  umbrella header "Pods-FRC_CAA-umbrella.h"
+
+  export *
+  module * { export * }
+}

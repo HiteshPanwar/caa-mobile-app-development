@@ -1,0 +1,239 @@
+{"COMMON_TEXT":{
+
+    "WE_DO_NOT":"We do not share your identity with third parties Please review our privacy policy",
+  
+    "WE_DO_NOT1":"We do not share your identity with third parties",
+    "WE_DO_NOT2":"Please review our privacy policy",
+    "CHECK_ON_ESTAB":"Check an Establishment",
+    "REPORT_ON_ESTAB":"Report an Establishment",
+
+    "T&C" :"Terms and Conditions",
+    "CONTACT_US": "Contact Us",
+    "PRIVACY_POLICY":"Privacy Policy",
+    "TERMS_CONDITIONS":"Terms and Conditions",
+    "CHECK_ESTABLISHMENT":"Check an Establishment ",
+    "CHECK_HOTSPOT" :"Check a Hot Spot" ,
+    "REPORT_ESTABLISHMENT":"Report COVID Safe(r) / Unsafe ",
+    "MAP":"Map",
+    "LIST":"List",
+    "M":"M",
+    "ADDRESS_AREA":"Address / Area / Category",
+    "SEARCH_LOCATION":"Check an Establishment",
+    "Submit":"Submit",
+    "Continue":"Continue",
+    "HotSpots":"Hot Spots",
+    "FEEDBACK":"Feedback"
+},
+
+"COMMON_REPORT":{
+    "CHECK_ALL_APPLY":"Check all that apply",
+    "THE_PUBLIC":"The Public",
+    "WORKERS":"Workers",
+    "NO":"No",
+    "YES":"Yes",
+    "COMMENTS_HERE":"Provide addtional comments here",
+    "YOUR_REPORT":"Your report is vital in keeping us all safe and healthy",
+    "Employees":"Employees",
+    "Temperature":"Temperature",
+    "COVID_19":"COVID-19",
+    "Antibodies":"Antibodies"
+},
+ 
+"ErrorText":{
+    
+    "CHECKBOX_ERROR":"please tick one of them",
+    "CONTENT_ERROR":"please enter content",
+    "FIRSTNAME_ERROR":"please enter first name",
+    "LASTNAME_ERROR":"please enter last name",
+    "EMAIL_ERROR":"please enter email",
+    "MOBILENO_ERROR":"please enter mobile number",
+    "ZIPCODE_ERROR":"please enter zipcode number"
+
+
+
+
+
+},
+
+
+"Drawer":{
+    "GUEST_REPORT":"Guest/Visitor Reporting",
+    "EMPLOYER_REPORT":"Employer Reporting",
+    "EMPLOYEE_REPORT":"Employee Reporting",
+    "MY_LOCATIONS":"My Alerts",
+    "MY_COVID":"My Activity",
+    "CORRECT_AN_ERROR":"Correct an Error",
+    "ABOUT_US":"About Us",
+    "FAQS":"FAQs",
+    "COVID_SERVICES":"COVID Services",
+    "SETTINGS":"Settings"
+},
+"MyCAAActivity":{
+    "MYCAA":"MY CAA ACTIVITY" 
+},
+
+"Visitor":{
+    
+    "NO": "No"
+   
+},
+
+"Employee":{
+       "Employer_TEST":"Employer Tests"     
+},
+   "Manager":{
+      "WE_EMPLOY":"We employ"
+   },
+
+
+"PlaceView":{
+    "ALERT":"ALERT!",
+    "A":"A",
+    "SEARCH_ANOTHER":"Search another",
+    "NOT_REQUIRE_SOCIALLY_DISTANCE":"This establishment does not require the public to socially distance*",
+    "FURTHER_INFORMATION":"Further Information",
+    "PROVIDE_REPORT":"Provide Report",
+    "YOUR_REPORTING":"Your reporting is vital to help keep our businesses open and our communities safe and healthy",
+    "BASED_ON_COVID_REPORTS":"Based on COVID reports  provided by our users ",
+    "COMPLETE_REPORTS":"Complete the Provide Report form for disputes",
+    "CORRECT_ERROR" : "Correct an Error"
+},
+
+"ReportEstablishment":{
+       "PATRON_VISITOR":"Patron or Visitor",
+       "EMPLOYEED_HERE":"Employed here",
+       "OWN_MANAGE":"Own or Manage"
+},
+
+"FurtherInfo":{
+    "IS_SOCIAL_DISTANCING_REQUIRED":"Is Social Distancing Required?",
+    "YES":"Yes",
+    "NO":"No",
+    "ARE_FACE_MASK_REQUIRED":"Are Face Masks Required?",
+    "PATRONS":"Patrons",
+    "PROVIDE_FACE_MASKS":"Provides face masks",
+    "EMPLOYEES":"Employees",
+    "COVID_TESTS":"COVID-19 tests",
+    "ANTIBODY_TESTS":"Antibody tests",
+    "OWNER":"Owner",
+    "WE_PROVIDE":"We provide a safe and happy place for our customer "
+},
+   
+    "Header": {
+        "HEADER_TEXT": "COVID ACTION ALERT",
+        "HEADER_SUBSCRIPT_TEXT": "TM"
+    },
+    "SignIn": {
+        "SignIn": "Sign In"
+    },
+    "LogIn": {
+        "LogIn": "START"
+    },
+
+   
+    "Settings": {
+        "My_Profile": "My Profile",
+        "Privacy": "Privacy / Push Settings",
+        "Email": "Email / IM Settings",
+        "Clear_History": "Clear History",
+        "Log_Out": "Log Out"
+    },
+    "OTP": {
+        "Verify_Mobile_Number": "Verify Mobile Number",
+        "SENT_TEXT": "Otp have been sent to you on your mobile number please enter it below",
+        "VERIFY": "Verify",
+        "DIDNT_RECEIVE": "Didn't receive an otp?",
+        "RESEND": "Resend OTP",
+        "Otp_Error": "Please enter  OTP"
+    },
+    "HomePage": {
+        "HELPING_BUISSNESS_TEXT1": "Helping businesses stay open",
+        "HELPING_BUISSNESS_TEXT2": "keeping our communities safe and healthy",
+        "THE_FREE_APP1": "The free App ",
+        "THE_FREE_APP2": "that alerts you",
+        "THE_FREE_APP3": "when COVID safeguards",
+        "THE_FREE_APP4": "are or are not in place ",
+        "SHARE_WITH": "  Share with those you care about",
+        "SEND_US": "  Send us your feedback",
+        "TERM": "Term and Condition",
+        "PRIVACY": "Privacy Policy",
+        
+        "YOUR_DONATIONS" : "Your donations help us maintain our operations and business expenses",
+        "REVIEW_TERMS": "Please review our terms and conditions"
+    },
+    "CovidServices": {
+        "COVIDTITLE": "COVID Services",
+        "COVIDLINK": "Click on COVID ACTION ALERT",
+        "LINK":"link",
+        "PROVIDE_SERVICES":"to provide services"
+    },
+    "FAQPage": {
+        "FAQ": "FAQs"
+    },
+    "AlertSetting": {
+        "PRI_AND_PUSH": "Privacy and Push Settings",
+        "PERMIT_SLIDER1A": "Permit COVID ALERT GPS TO accees my location",
+     
+
+        "ALERT_SLIDER2A": "Alert me if the establishment doesn't require social distancing",
+       
+      
+        "ALERT_SLIDER3A": "Alert me if the establishment doesn't require the public to wear a face mask",
+        
+     
+        "ALERT_SLIDER4B": "Alert me if the establishment doesn't require employees to wear a face mask",
+        "ALERT_SLIDER5A": "Alert me if I'm entering a  \"hot spot\" ",
+       
+        "ALERT_SLIDER6A": "Alert me if I'm an entering an establishment that requires social distancing and face mask for everybody to everybody"
+        
+    },
+    "EmailImSetting": {
+        "EMAIL_IM": "Email / IM Settings",
+        "PERMIT_COVID1": "Permit COVID ACTION ALERT to email / IM me regarding COVID public health alerts",
+        "PERMIT_COVID2": "Permit COVID ACTION ALERT to email / IM me to follow-up on my reports or emails to COVID ACTION ALERT",
+        "PERMIT_COVID3":"Permit COVID ACTION ALERT to email / IM me regarding COVID public health alerts I have visited or reported",
+        "PERMIT_COVID4":"Permit COVID ACTION ALERT to email / IM me regarding COVID matters at my place of employment"
+       
+    },
+    "ReportError": {
+        "REPORT_ON": "Report on Error"
+    },
+    "Footer": {
+        "MOBILE_NUMBER": "9999999999",
+        "EMAIL_ID": "abc@CAA.com",
+        "CONTACT_US": "Contact Us-",
+        "IF_YOU_NEED_TEXT": "If you need any help or provides any service related covid, Please contact on following aveneues-"
+    },
+    "AboutUs": {
+        "ABOUT_US_TITLE": "About Us",
+        "ABOUT_US_DETAILS": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer eget aliquet nibh praesent. Nam aliquam sem et tortor consequat. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Nulla pharetra diam sit amet nisl suscipit. Elit eget gravida cum sociis natoque penatibus. Sit amet volutpat consequat mauris. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Tempus imperdiet nulla malesuada pellentesque elit eget gravida cum sociis.Felis eget velit aliquet sagittis id consectetur purus ut. Sed ullamcorper morbi tincidunt ornare. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Morbi tristique senectus et netus et malesuada. Venenatis urna cursus eget nunc scelerisque viverra mauris. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Mauris a diam maecenas sed enim. Varius quam quisque id diam vel quam elementum. Arcu bibendum at varius vel pharetra vel turpis nunc eget. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Facilisis leo vel fringilla est.Rhoncus urna neque viverra justo nec ultrices dui. Sagittis purus sit amet volutpat. Et tortor consequat id porta nibh venenatis cras sed felis. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Mattis molestie a iaculis at. Urna condimentum mattis pellentesque id nibh tortor id aliquet. Rhoncus dolor purus non enim praesent elementum facilisis leo. Cursus mattis molestie a iaculis at. Metus dictum at tempor commodo ullamcorper. Accumsan sit amet nulla facilisi. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Nunc pulvinar sapien et ligula. Elit sed vulputate mi sit amet mauris commodo quis. Vulputate dignissim suspendisse in est ante in nibh. Eget nullam non nisi est sit amet facilisis magna etiam. Penatibus et magnis dis parturient montes. Sagittis eu volutpat odio facilisis mauris sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Aliquet lectus proin nibh nisl condimentum id venenatis a."
+    },
+    "ContactUs": {
+        "INDICATE_HERE": "Indicate here",
+        "ADVERTISE": "Advertise",
+        "PROVIDE_COVID_SERVICES": "Provide Covid Services",
+        "QUESTIONS": "Questions?",
+        "PROVIDE_FEEDBACK": "Provide  feedback",
+        "PLEASE_PROVIDE_YOUR_CONTACT_INFORMATION": "Please provide your contact information"
+    },
+    "MyProfile": {
+        "MY_PROFILE": "My Profile",
+        "FIRST_NAME": "First Name",
+        "LAST_NAME": "Last Name",
+        "EMAIL": "Email",
+        "MOBILE": "Mobile Number",
+        "MY_ZIP_CODE": "My Zip Code (Location)"
+    },
+    "Feedback": {
+        "FEEDBACK": "Feedback",
+        "NAME": "Name",
+        "EMAIL": "Email",
+        "MESSAGE": "Message"
+    },
+    "LogOut":{
+        "LOGOUT":"LOG OUT",
+        "LOGOUT_MESSAGE":" Are you sure you want to log out from the app?",
+        "YES":"YES",
+        "NO":"No"
+    }
+}

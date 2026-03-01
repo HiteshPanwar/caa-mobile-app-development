@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC_CAA.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC_CAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FRC_CAA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FRC_CAA.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1671216419/FRC_CAA.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1671216419/FRC_CAA.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2016217312/FRC_CAA.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2016217312/FRC_CAA.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1991020698/FRC_CAA.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1991020698/FRC_CAA.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/364217277/FRC_CAA.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/364217277/FRC_CAA.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-940813665/FRC_CAA.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-940813665/FRC_CAA.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-85395465/FRC_CAA.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-85395465/FRC_CAA.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1664927420/FRC_CAA.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1664927420/FRC_CAA.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/182470597/FRC_CAA.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/182470597/FRC_CAA.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/190705312/FRC_CAA.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/190705312/FRC_CAA.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-304802120/FRC_CAA.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-304802120/FRC_CAA.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-490095613/FRC_CAA.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-490095613/FRC_CAA.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1045859542/FRC_CAA.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1045859542/FRC_CAA.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
