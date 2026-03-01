@@ -1,6 +1,0 @@
-module Pods_FRC_CAA_FRC_CAATests {
-  umbrella header "Pods-FRC_CAA-FRC_CAATests-umbrella.h"
-
-  export *
-  module * { export * }
-}
